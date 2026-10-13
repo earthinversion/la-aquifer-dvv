@@ -1,0 +1,10 @@
+site,wrd_id,lat,lon,url
+GAR1,100020,33.908971,-118.293064,https://hydrographs.wrd.org/100020/2
+PM-3,100034,33.842569,-118.32545,https://hydrographs.wrd.org/100034/2
+PM-4,100038,33.849761,-118.349686,https://hydrographs.wrd.org/100038/2
+ING1,100091,33.966968,-118.359681,https://hydrographs.wrd.org/100091/2
+SFS1,100096,33.92971,-118.046276,https://hydrographs.wrd.org/100096/2
+LMR1,100876,33.882969,-118.008004,https://hydrographs.wrd.org/100876/2
+HAW1,100887,33.911752,-118.366196,https://hydrographs.wrd.org/100887/2
+WHT1,101735,33.936007,-118.000187,https://hydrographs.wrd.org/101735/2
+GAR2,101804,33.876521,-118.29992,https://hydrographs.wrd.org/101804/2

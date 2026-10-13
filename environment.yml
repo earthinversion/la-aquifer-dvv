@@ -1,0 +1,12 @@
+name: la-aquifer-dvv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4.6
+  - pandas=3.0.3
+  - scipy=1.17.1
+  - matplotlib=3.11.0
+  - obspy=1.5.0
+  - requests=2.34.2
+  - gmt            # step 5 only (map background)

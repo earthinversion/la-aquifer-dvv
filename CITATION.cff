@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or the dv/v record, please cite it as below."
+title: "la-aquifer-dvv: seismic velocity changes at station LAF, Los Angeles, 2004-2026"
+type: software
+version: 1.0.0
+date-released: 2026-10-12
+license: MIT
+authors:
+  - family-names: Kumar
+    given-names: Utpal
+    affiliation: "Berkeley Seismology Lab, University of California, Berkeley"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/earthinversion/la-aquifer-dvv"
+keywords:
+  - ambient noise
+  - seismic velocity change
+  - groundwater
+  - Los Angeles

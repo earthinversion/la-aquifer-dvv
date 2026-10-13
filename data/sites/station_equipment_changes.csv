@@ -1,0 +1,29 @@
+network,station,date,change
+CI,BLC,2017-10-25,new metadata epoch
+CI,CHN,2006-04-24,20 -> 40 sps
+CI,CHN,2008-10-22,new metadata epoch
+CI,CHN,2011-01-06,new metadata epoch
+CI,CHN,2011-10-28,new metadata epoch
+CI,CHN,2012-12-11,sensor CMG-40T -> STS-2
+CI,CHN,2016-03-08,new metadata epoch
+CI,CHN,2023-06-21,new metadata epoch
+CI,LAF,2004-08-31,new metadata epoch
+CI,LAF,2006-04-26,20 -> 40 sps
+CI,LAF,2006-09-11,new metadata epoch
+CI,LAF,2011-02-04,sensor STS-2 -> CMG-3ESPC
+CI,LAF,2013-10-17,sensor CMG-3ESPC -> STS-2.5
+CI,LAF,2020-08-12,new metadata epoch
+CI,LLS,2006-04-27,20 -> 40 sps
+CI,LLS,2010-12-13,new metadata epoch
+CI,LLS,2012-12-11,sensor CMG-40T -> STS-2.5
+CI,LLS,2014-06-04,new metadata epoch
+CI,LLS,2015-10-02,new metadata epoch
+CI,LLS,2017-09-05,new metadata epoch
+CI,OLI,2006-05-05,20 -> 40 sps
+CI,OLI,2010-09-22,new metadata epoch
+CI,OLI,2013-10-10,sensor GURALP CMG-3T S/N:T3925 Velocity Sensor -> STRECKEISEN STS-2.5 S/N:120352 Velocity Sensor
+CI,OLI,2024-10-30,new metadata epoch
+CI,OLI,2026-06-12,new metadata epoch
+CI,PDR,2006-06-06,20 -> 40 sps
+CI,PDR,2010-08-18,new metadata epoch
+CI,PDR,2020-09-01,new metadata epoch

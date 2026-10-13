@@ -1,0 +1,6 @@
+# daily correlation functions from step 1 (rebuilt by the script, about 85 MB per station)
+data/corr/
+__pycache__/
+*.pyc
+.DS_Store
+logs/

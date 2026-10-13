@@ -1,0 +1,8 @@
+{
+ "source": "NOAA NCEI Access Data Service, GHCN-Daily PRCP",
+ "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=daily-summaries&stations=USW00023174&dataTypes=PRCP&startDate=2003-01-01&endDate=2026-09-15&units=metric&format=csv",
+ "station": "USW00023174",
+ "accessed": "2026-10-12",
+ "days": 8659,
+ "months": 284
+}

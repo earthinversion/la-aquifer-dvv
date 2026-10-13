@@ -1,0 +1,8 @@
+{
+ "accessed": "2026-10-12",
+ "seismic_stations": "FDSN station service, SCEDC, network CI",
+ "station_equipment_changes": "Z-channel metadata epochs from the same service",
+ "weather_stations": "NOAA NCEI Access Data Service, includeStationLocation=1",
+ "wrd_nested_wells": "https://hydrographs.wrd.org/<id>/2 (coordinates in page)",
+ "stream_gauge": "https://api.waterdata.usgs.gov/ogcapi/v0/collections/monitoring-locations/items/USGS-11101250?f=json"
+}
