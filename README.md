@@ -122,4 +122,4 @@ results/figure_laf/        figure, panel tables and seasonal fit
 
 ## Citation
 
-See `CITATION.cff`. The archived release is on Zenodo (DOI to be added).
+See `CITATION.cff`. The v1.0.0 release is archived on Zenodo, doi:10.5281/zenodo.23329146.

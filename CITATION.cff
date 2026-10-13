@@ -3,8 +3,13 @@ message: "If you use this code or the dv/v record, please cite it as below."
 title: "la-aquifer-dvv: seismic velocity changes at station LAF, Los Angeles, 2004-2026"
 type: software
 version: 1.0.0
-date-released: 2026-10-12
+date-released: 2026-10-13
 license: MIT
+doi: 10.5281/zenodo.23329146
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23329146
+    description: "Zenodo archive of version 1.0.0"
 authors:
   - family-names: Kumar
     given-names: Utpal
